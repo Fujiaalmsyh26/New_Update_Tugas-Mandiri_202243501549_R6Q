@@ -1,12 +1,12 @@
 
-# Tugas Dan Catetan Pemrograman Visual
+# Tugas Mandiri Pemrograman Visual
 
 
-Nama : Muhamad Abi Samsu Sidqi
+Nama : Fujia Alamsyah
 
 Kelas : R6Q (RQ)
 
-NPM : 202243501611
+NPM : 202243501549
 
 ## Fitur Login
 ![App Screenshot](https://raw.githubusercontent.com/abisamsuu/MataKuliah_Pemrograman_Visual/refs/heads/master/Gallery/kasir_login.PNG)
